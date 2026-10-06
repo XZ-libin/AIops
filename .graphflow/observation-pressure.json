@@ -1,0 +1,36 @@
+{
+  "sessions": {
+    "session-faf0d4ca-21dc-4136-aa13-2a539597326b": {
+      "sessionId": "session-faf0d4ca-21dc-4136-aa13-2a539597326b",
+      "rawBytes": 44993,
+      "visibleBytes": 39034,
+      "observations": 43,
+      "usedTokensEstimate": 9759,
+      "updatedAt": "2026-10-06T17:39:24.631Z"
+    },
+    "ba2dca3b-e128-4062-b50a-4a684e7f5574": {
+      "sessionId": "ba2dca3b-e128-4062-b50a-4a684e7f5574",
+      "rawBytes": 32,
+      "visibleBytes": 32,
+      "observations": 1,
+      "usedTokensEstimate": 8,
+      "updatedAt": "2026-10-06T17:33:20.990Z"
+    },
+    "527ac0d5-42d8-4ff6-a096-a38710a6633a": {
+      "sessionId": "527ac0d5-42d8-4ff6-a096-a38710a6633a",
+      "rawBytes": 299,
+      "visibleBytes": 299,
+      "observations": 1,
+      "usedTokensEstimate": 75,
+      "updatedAt": "2026-10-06T17:38:35.078Z"
+    },
+    "93d31116-8946-4f84-9660-b6c814db80a7": {
+      "sessionId": "93d31116-8946-4f84-9660-b6c814db80a7",
+      "rawBytes": 32,
+      "visibleBytes": 32,
+      "observations": 1,
+      "usedTokensEstimate": 8,
+      "updatedAt": "2026-10-06T17:44:00.826Z"
+    }
+  }
+}
